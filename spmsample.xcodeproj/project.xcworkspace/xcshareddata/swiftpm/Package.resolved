@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "spmcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/a-karthi/SPMCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "11aeecc808cc6f5b2c6f992ca446c269fd26b16a"
+      }
+    }
+  ],
+  "version" : 2
+}
